@@ -136,7 +136,6 @@ if __name__ == "__main__":
     regions = update_lgd_sot(lgd_sot=regions, lgd_to_add=pd.read_csv(ulb_path), hierarchy=ulb_hierarchy)
     regions.to_csv(sot_path, index=False)
 
-
     ulbs = {"276600": "BBMP", "251528": "PCMC"}  # ulbs to add
 
     for ulb_code, ulb_name in ulbs.items():
