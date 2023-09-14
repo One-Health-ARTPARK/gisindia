@@ -30983,7 +30983,8 @@ district_530,VIJAYAPURA,state_29
 district_635,YADGIR,state_29
 state_29,KARNATAKA,country_IN
 ulb_276600,BBMP,district_5542
-ulb_251528,PCMC,district_490
+ulb_251528,PIMPRI CHINCHWAD,district_490
+ulb_251530,PUNE,district_490
 district_5542,BENGALURU URBAN,state_29
 district_490,PUNE,state_27
 ulb_276600-zone-1,Bommanahalli ,ulb_276600
@@ -31232,3 +31233,61 @@ ulb_251528-ward-29,Ward No. 29,ulb_251528-zone-4
 ulb_251528-ward-30,Ward No. 30,ulb_251528-zone-8
 ulb_251528-ward-31,Ward No. 31,ulb_251528-zone-8
 ulb_251528-ward-32,Ward No. 32,ulb_251528-zone-8
+ulb_251530-prabhag-1,Prabhag No. 1,ulb_251530
+ulb_251530-prabhag-2,Prabhag No. 2,ulb_251530
+ulb_251530-prabhag-3,Prabhag No. 3,ulb_251530
+ulb_251530-prabhag-4,Prabhag No. 4,ulb_251530
+ulb_251530-prabhag-5,Prabhag No. 5,ulb_251530
+ulb_251530-prabhag-6,Prabhag No. 6,ulb_251530
+ulb_251530-prabhag-7,Prabhag No. 7,ulb_251530
+ulb_251530-prabhag-8,Prabhag No. 8,ulb_251530
+ulb_251530-prabhag-9,Prabhag No. 9,ulb_251530
+ulb_251530-prabhag-10,Prabhag No. 10,ulb_251530
+ulb_251530-prabhag-11,Prabhag No. 11,ulb_251530
+ulb_251530-prabhag-12,Prabhag No. 12,ulb_251530
+ulb_251530-prabhag-13,Prabhag No. 13,ulb_251530
+ulb_251530-prabhag-14,Prabhag No. 14,ulb_251530
+ulb_251530-prabhag-15,Prabhag No. 15,ulb_251530
+ulb_251530-prabhag-16,Prabhag No. 16,ulb_251530
+ulb_251530-prabhag-17,Prabhag No. 17,ulb_251530
+ulb_251530-prabhag-18,Prabhag No. 18,ulb_251530
+ulb_251530-prabhag-19,Prabhag No. 19,ulb_251530
+ulb_251530-prabhag-20,Prabhag No. 20,ulb_251530
+ulb_251530-prabhag-21,Prabhag No. 21,ulb_251530
+ulb_251530-prabhag-22,Prabhag No. 22,ulb_251530
+ulb_251530-prabhag-23,Prabhag No. 23,ulb_251530
+ulb_251530-prabhag-24,Prabhag No. 24,ulb_251530
+ulb_251530-prabhag-25,Prabhag No. 25,ulb_251530
+ulb_251530-prabhag-26,Prabhag No. 26,ulb_251530
+ulb_251530-prabhag-27,Prabhag No. 27,ulb_251530
+ulb_251530-prabhag-28,Prabhag No. 28,ulb_251530
+ulb_251530-prabhag-29,Prabhag No. 29,ulb_251530
+ulb_251530-prabhag-30,Prabhag No. 30,ulb_251530
+ulb_251530-prabhag-31,Prabhag No. 31,ulb_251530
+ulb_251530-prabhag-32,Prabhag No. 32,ulb_251530
+ulb_251530-prabhag-33,Prabhag No. 33,ulb_251530
+ulb_251530-prabhag-34,Prabhag No. 34,ulb_251530
+ulb_251530-prabhag-35,Prabhag No. 35,ulb_251530
+ulb_251530-prabhag-36,Prabhag No. 36,ulb_251530
+ulb_251530-prabhag-37,Prabhag No. 37,ulb_251530
+ulb_251530-prabhag-38,Prabhag No. 38,ulb_251530
+ulb_251530-prabhag-39,Prabhag No. 39,ulb_251530
+ulb_251530-prabhag-40,Prabhag No. 40,ulb_251530
+ulb_251530-prabhag-41,Prabhag No. 41,ulb_251530
+ulb_251530-prabhag-42,Prabhag No. 42,ulb_251530
+ulb_251530-prabhag-43,Prabhag No. 43,ulb_251530
+ulb_251530-prabhag-44,Prabhag No. 44,ulb_251530
+ulb_251530-prabhag-45,Prabhag No. 45,ulb_251530
+ulb_251530-prabhag-46,Prabhag No. 46,ulb_251530
+ulb_251530-prabhag-47,Prabhag No. 47,ulb_251530
+ulb_251530-prabhag-48,Prabhag No. 48,ulb_251530
+ulb_251530-prabhag-49,Prabhag No. 49,ulb_251530
+ulb_251530-prabhag-50,Prabhag No. 50,ulb_251530
+ulb_251530-prabhag-51,Prabhag No. 51,ulb_251530
+ulb_251530-prabhag-52,Prabhag No. 52,ulb_251530
+ulb_251530-prabhag-53,Prabhag No. 53,ulb_251530
+ulb_251530-prabhag-54,Prabhag No. 54,ulb_251530
+ulb_251530-prabhag-55,Prabhag No. 55,ulb_251530
+ulb_251530-prabhag-56,Prabhag No. 56,ulb_251530
+ulb_251530-prabhag-57,Prabhag No. 57,ulb_251530
+ulb_251530-prabhag-58,Prabhag No. 58,ulb_251530

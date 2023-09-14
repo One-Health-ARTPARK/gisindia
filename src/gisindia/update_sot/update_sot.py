@@ -125,22 +125,42 @@ if __name__ == "__main__":
     states = {"29": "Karnataka"}  # States to add
 
     for state_code, state_name in states.items():
-        src_path = "regionIDs/regionIDs_src/villages/" + "state_" + str(state_code) + ".csv"
+        src_path = "regionIDs/regionIDs_src/districts/" + "state_" + str(state_code) + ".csv"
         src_path = Path(__file__).parent / src_path
         regions = update_revenue(regions=pd.read_csv(src_path),
                                  state_code=state_code, state_name=state_name)
         regions.to_csv(sot_path, index=False)
 
-    ulb_path = "regionIDs/regionIDs_src/ulbs.csv"
+    ulb_path = "regionIDs/regionIDs_src/ulbs/ulbs.csv"
     ulb_path = Path(__file__).parent / ulb_path
     regions = update_lgd_sot(lgd_sot=regions, lgd_to_add=pd.read_csv(ulb_path), hierarchy=ulb_hierarchy)
     regions.to_csv(sot_path, index=False)
 
-    ulbs = {"276600": "BBMP", "251528": "PCMC"}  # ulbs to add
+    ulbs = {"276600": "BBMP", "251528": "Pimpri Chinchwad"}  # ulbs to add
 
     for ulb_code, ulb_name in ulbs.items():
-        src_path = "regionIDs/regionIDs_src/wards/" + "ulb_" + str(ulb_code) + ".csv"
+        src_path = "regionIDs/regionIDs_src/ulbs/" + "ulb_" + str(ulb_code) + ".csv"
         src_path = Path(__file__).parent / src_path
         regions = update_ulb(regions=pd.read_csv(src_path),
                              ulb_code=ulb_code, ulb_name=ulb_name)
+        regions.to_csv(sot_path, index=False)
+
+    # Update Pune Data
+
+    ulbs_prabhags = {251530: "PUNE"}
+    no_prabhags = {251530: 58}
+
+    for ulb_code, ulb_name in ulbs_prabhags.items():
+        prabhags = pd.DataFrame(columns=["regionID", "regionName", "parentID"])
+
+        regionNos = pd.Series(list(range(1, no_prabhags[ulb_code]+1)))
+        regionIDs = "ulb_" + str(ulb_code) + "-prabhag-" + regionNos.astype(str)
+        regionNames = "Prabhag No. " + regionNos.astype(str)
+
+        prabhags["regionID"] = regionIDs
+        prabhags["regionName"] = regionNames
+        prabhags["parentID"] = "ulb_" + str(ulb_code)
+
+        regions = pd.read_csv(sot_path)
+        regions = pd.concat([regions, prabhags], ignore_index=True)
         regions.to_csv(sot_path, index=False)
