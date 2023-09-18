@@ -1,5 +1,10 @@
 # Unique Region IDs for India: Source of Truth
 
+### CHANGELOG
+2023-09-14: Adding Pune Municipal Corporation, renaming PCMC to Pimpri Chinchwad, restructuring folder to be more intuitive
+
+### About
+
 This subpackage in ```gisindia``` is attempting to solve the problem with varying names for different regions across India. Here, we create a source of truth and assign a unique regionID to every region in India.
 
 The latest updated source of truth for all regionIDs can be found at [```regionIDs.csv```](regionIDs.csv).
