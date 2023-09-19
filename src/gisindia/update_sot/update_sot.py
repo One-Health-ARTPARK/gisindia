@@ -56,19 +56,22 @@ def update_ulb(regions: pd.DataFrame, ulb_code: int, ulb_name: str) -> pd.DataFr
     """
 
     if set(regions.columns.values) == {"ward_no", "zone_name"}:
-        regions["ward_name"] = "Ward No. " + regions["ward_no"].astype(str)
+        regions["ward_name"] = ulb_name + " Ward No. " + regions["ward_no"].astype(str)
 
     regionIDs = pd.read_csv(sot_path)
 
     ulbID = "ulb_" + str(ulb_code)
 
+    regions["ward_name"] = regions["ward_name"].str.strip()
+    regions["zone_name"] = regions["zone_name"].str.strip()
+
     zones_df = regions[["zone_name"]].drop_duplicates().reset_index(drop=True).copy()
     zones_df = zones_df.sort_values("zone_name").reset_index(drop=True)
-    zones_df["zone_ID"] = [ulbID + "-zone-" + str(i) for i in range(1, len(zones_df)+1)]
+    zones_df["zone_ID"] = ["zone_" + str(ulb_code) + "-" + str(i) for i in range(1, len(zones_df)+1)]
 
     wards_df = regions.copy()
     wards_df = wards_df.merge(zones_df, on="zone_name")
-    wards_df["ward_ID"] = ulbID + "-ward-" + wards_df["ward_no"].astype(str)
+    wards_df["ward_ID"] = "ward_" + str(ulb_code) + "-"  + wards_df["ward_no"].astype(str)
     wards_df.rename(mapper={"ward_ID": "regionID", "ward_name": "regionName", "zone_ID": "parentID"},
                     axis="columns", inplace=True)
     wards_df = wards_df.sort_values("ward_no").reset_index(drop=True)
@@ -136,7 +139,7 @@ if __name__ == "__main__":
     regions = update_lgd_sot(lgd_sot=regions, lgd_to_add=pd.read_csv(ulb_path), hierarchy=ulb_hierarchy)
     regions.to_csv(sot_path, index=False)
 
-    ulbs = {"276600": "BBMP", "251528": "Pimpri Chinchwad"}  # ulbs to add
+    ulbs = {"276600": "BBMP", "251528": "PIMPRI CHINCHWAD"}  # ulbs to add
 
     for ulb_code, ulb_name in ulbs.items():
         src_path = "regionIDs/regionIDs_src/ulbs/" + "ulb_" + str(ulb_code) + ".csv"
@@ -154,8 +157,8 @@ if __name__ == "__main__":
         prabhags = pd.DataFrame(columns=["regionID", "regionName", "parentID"])
 
         regionNos = pd.Series(list(range(1, no_prabhags[ulb_code]+1)))
-        regionIDs = "ulb_" + str(ulb_code) + "-prabhag-" + regionNos.astype(str)
-        regionNames = "Prabhag No. " + regionNos.astype(str)
+        regionIDs = "prabhag_" + str(ulb_code) + "-" + regionNos.astype(str)
+        regionNames = ulb_name + " Prabhag No. " + regionNos.astype(str)
 
         prabhags["regionID"] = regionIDs
         prabhags["regionName"] = regionNames

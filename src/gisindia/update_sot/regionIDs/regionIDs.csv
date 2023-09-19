@@ -30982,312 +30982,311 @@ district_738,VIJAYANAGAR,state_29
 district_530,VIJAYAPURA,state_29
 district_635,YADGIR,state_29
 state_29,KARNATAKA,country_IN
-ulb_276600,BBMP,district_5542
+ulb_276600,BBMP,district_525
 ulb_251528,PIMPRI CHINCHWAD,district_490
 ulb_251530,PUNE,district_490
-district_5542,BENGALURU URBAN,state_29
 district_490,PUNE,state_27
-ulb_276600-zone-1,Bommanahalli ,ulb_276600
-ulb_276600-zone-2,Dasarahalli ,ulb_276600
-ulb_276600-zone-3,East,ulb_276600
-ulb_276600-zone-4,Mahadevapura,ulb_276600
-ulb_276600-zone-5,Rajarajeshwari Nagar,ulb_276600
-ulb_276600-zone-6,South,ulb_276600
-ulb_276600-zone-7,West,ulb_276600
-ulb_276600-zone-8,Yelahanka,ulb_276600
-ulb_276600-ward-1,Kempegowda Ward,ulb_276600-zone-8
-ulb_276600-ward-2,Chowdeswari Ward,ulb_276600-zone-8
-ulb_276600-ward-3,Atturu,ulb_276600-zone-8
-ulb_276600-ward-4,Yelahanka Satellite Town,ulb_276600-zone-8
-ulb_276600-ward-5,Jakkuru,ulb_276600-zone-8
-ulb_276600-ward-6,Thanisandra,ulb_276600-zone-8
-ulb_276600-ward-7,Byatarayanapura,ulb_276600-zone-8
-ulb_276600-ward-8,Kodigehalli,ulb_276600-zone-8
-ulb_276600-ward-9,Vidyaranyapura,ulb_276600-zone-8
-ulb_276600-ward-10,Dodda Bommasandra,ulb_276600-zone-8
-ulb_276600-ward-11,Kuvempu Nagar,ulb_276600-zone-8
-ulb_276600-ward-12,Shettihalli,ulb_276600-zone-2
-ulb_276600-ward-13,Mallasandra,ulb_276600-zone-2
-ulb_276600-ward-14,Bagalakunte,ulb_276600-zone-2
-ulb_276600-ward-15,T Dasarahalli,ulb_276600-zone-2
-ulb_276600-ward-16,Jalahalli,ulb_276600-zone-5
-ulb_276600-ward-17,J P Park,ulb_276600-zone-5
-ulb_276600-ward-18,Radhakrishna Temple Ward,ulb_276600-zone-3
-ulb_276600-ward-19,Sanjaya Nagar,ulb_276600-zone-3
-ulb_276600-ward-20,Ganga Nagar,ulb_276600-zone-3
-ulb_276600-ward-21,Hebbala,ulb_276600-zone-3
-ulb_276600-ward-22,Vishwanath Nagenahalli,ulb_276600-zone-3
-ulb_276600-ward-23,Nagavara,ulb_276600-zone-3
-ulb_276600-ward-24,HBR Layout,ulb_276600-zone-3
-ulb_276600-ward-25,Horamavu,ulb_276600-zone-4
-ulb_276600-ward-26,Ramamurthy Nagar,ulb_276600-zone-4
-ulb_276600-ward-27,Banasavadi,ulb_276600-zone-3
-ulb_276600-ward-28,Kammanahalli,ulb_276600-zone-3
-ulb_276600-ward-29,Kacharkanahalli,ulb_276600-zone-3
-ulb_276600-ward-30,Kadugondanahalli,ulb_276600-zone-3
-ulb_276600-ward-31,Kushal Nagar,ulb_276600-zone-3
-ulb_276600-ward-32,Kaval Bairasandra,ulb_276600-zone-3
-ulb_276600-ward-33,Manorayanapalya,ulb_276600-zone-3
-ulb_276600-ward-34,Gangenahalli,ulb_276600-zone-3
-ulb_276600-ward-35,Aramane Nagara,ulb_276600-zone-7
-ulb_276600-ward-36,Mattikere,ulb_276600-zone-7
-ulb_276600-ward-37,Yeshwanthpura,ulb_276600-zone-5
-ulb_276600-ward-38,HMT Ward,ulb_276600-zone-5
-ulb_276600-ward-39,Chokkasandra,ulb_276600-zone-2
-ulb_276600-ward-40,Dodda Bidarakallu,ulb_276600-zone-5
-ulb_276600-ward-41,Peenya Industrial Area,ulb_276600-zone-2
-ulb_276600-ward-42,Lakshmi Devi Nagar,ulb_276600-zone-5
-ulb_276600-ward-43,Nandini Layout,ulb_276600-zone-7
-ulb_276600-ward-44,Marappana Palya,ulb_276600-zone-7
-ulb_276600-ward-45,Malleswaram,ulb_276600-zone-7
-ulb_276600-ward-46,Jayachamarajendra Nagar,ulb_276600-zone-3
-ulb_276600-ward-47,Devara Jeevanahalli,ulb_276600-zone-3
-ulb_276600-ward-48,Muneshwara Nagar,ulb_276600-zone-3
-ulb_276600-ward-49,Lingarajapura,ulb_276600-zone-3
-ulb_276600-ward-50,Benniganahalli,ulb_276600-zone-3
-ulb_276600-ward-51,Vijnanapura,ulb_276600-zone-4
-ulb_276600-ward-52,K R Puram,ulb_276600-zone-4
-ulb_276600-ward-53,Basavanapura,ulb_276600-zone-4
-ulb_276600-ward-54,Hudi,ulb_276600-zone-4
-ulb_276600-ward-55,Devasandra,ulb_276600-zone-4
-ulb_276600-ward-56,A Narayanapura,ulb_276600-zone-4
-ulb_276600-ward-57,C V Raman Nagar,ulb_276600-zone-3
-ulb_276600-ward-58,New Tippasandara,ulb_276600-zone-3
-ulb_276600-ward-59,Maruthi Seva Nagar,ulb_276600-zone-3
-ulb_276600-ward-60,Sagayarapuram,ulb_276600-zone-3
-ulb_276600-ward-61,S K Garden,ulb_276600-zone-3
-ulb_276600-ward-62,Ramaswamy Palya,ulb_276600-zone-3
-ulb_276600-ward-63,Jayamahal,ulb_276600-zone-3
-ulb_276600-ward-64,Rajamahal Guttahalli,ulb_276600-zone-7
-ulb_276600-ward-65,Kadu Malleshwar Ward,ulb_276600-zone-7
-ulb_276600-ward-66,Subramanya Nagar,ulb_276600-zone-7
-ulb_276600-ward-67,Nagapura,ulb_276600-zone-7
-ulb_276600-ward-68,Mahalakshimpuram,ulb_276600-zone-7
-ulb_276600-ward-69,Laggere,ulb_276600-zone-5
-ulb_276600-ward-70,Rajagopal Nagar,ulb_276600-zone-2
-ulb_276600-ward-71,Hegganahalli,ulb_276600-zone-2
-ulb_276600-ward-72,Herohalli,ulb_276600-zone-5
-ulb_276600-ward-73,Kottegepalya,ulb_276600-zone-5
-ulb_276600-ward-74,Shakthi Ganapathi Nagar,ulb_276600-zone-7
-ulb_276600-ward-75,Shankar Matt,ulb_276600-zone-7
-ulb_276600-ward-76,Gayithri Nagar,ulb_276600-zone-7
-ulb_276600-ward-77,Dattatreya Temple,ulb_276600-zone-7
-ulb_276600-ward-78,Pulikeshinagar,ulb_276600-zone-3
-ulb_276600-ward-79,Sarvagna Nagar,ulb_276600-zone-3
-ulb_276600-ward-80,Hoysala Nagar,ulb_276600-zone-3
-ulb_276600-ward-81,Vijnana Nagar,ulb_276600-zone-4
-ulb_276600-ward-82,Garudachar Playa,ulb_276600-zone-4
-ulb_276600-ward-83,Kadugodi,ulb_276600-zone-4
-ulb_276600-ward-84,Hagadur,ulb_276600-zone-4
-ulb_276600-ward-85,Dodda Nekkundi,ulb_276600-zone-4
-ulb_276600-ward-86,Marathahalli,ulb_276600-zone-4
-ulb_276600-ward-87,HAL Airport,ulb_276600-zone-4
-ulb_276600-ward-88,Jeevanbhima Nagar,ulb_276600-zone-3
-ulb_276600-ward-89,Jogupalya,ulb_276600-zone-3
-ulb_276600-ward-90,Halsoor,ulb_276600-zone-3
-ulb_276600-ward-91,Bharathi Nagar,ulb_276600-zone-3
-ulb_276600-ward-92,Shivaji Nagar,ulb_276600-zone-3
-ulb_276600-ward-93,Vasanth Nagar,ulb_276600-zone-3
-ulb_276600-ward-94,Gandhinagar,ulb_276600-zone-7
-ulb_276600-ward-95,Subhash Nagar,ulb_276600-zone-7
-ulb_276600-ward-96,Okalipuram,ulb_276600-zone-7
-ulb_276600-ward-97,Dayananda Nagar,ulb_276600-zone-7
-ulb_276600-ward-98,Prakash Nagar,ulb_276600-zone-7
-ulb_276600-ward-99,Rajaji Nagar,ulb_276600-zone-7
-ulb_276600-ward-100,Basaveshwara Nagar,ulb_276600-zone-7
-ulb_276600-ward-101,Kamakshipalya,ulb_276600-zone-7
-ulb_276600-ward-102,Vrisabhavathi Nagar,ulb_276600-zone-7
-ulb_276600-ward-103,Kaveripura,ulb_276600-zone-7
-ulb_276600-ward-104,Govindaraja Nagar,ulb_276600-zone-7
-ulb_276600-ward-105,Agrahara Dasarahalli,ulb_276600-zone-7
-ulb_276600-ward-106,Dr. Raj Kumar Ward,ulb_276600-zone-7
-ulb_276600-ward-107,Shivanagara,ulb_276600-zone-7
-ulb_276600-ward-108,Sriramamandir,ulb_276600-zone-7
-ulb_276600-ward-109,Chickpete,ulb_276600-zone-7
-ulb_276600-ward-110,Sampangiram Nagar,ulb_276600-zone-3
-ulb_276600-ward-111,Shantala Nagar,ulb_276600-zone-3
-ulb_276600-ward-112,Domlur,ulb_276600-zone-3
-ulb_276600-ward-113,Konena Agrahara,ulb_276600-zone-3
-ulb_276600-ward-114,Agaram,ulb_276600-zone-3
-ulb_276600-ward-115,Vannarpet,ulb_276600-zone-3
-ulb_276600-ward-116,Nilasandra,ulb_276600-zone-3
-ulb_276600-ward-117,Shanthi Nagar,ulb_276600-zone-3
-ulb_276600-ward-118,Sudham Nagara,ulb_276600-zone-6
-ulb_276600-ward-119,Dharmaraya Swamy Temple,ulb_276600-zone-6
-ulb_276600-ward-120,Cottonpete,ulb_276600-zone-7
-ulb_276600-ward-121,Binnipete,ulb_276600-zone-7
-ulb_276600-ward-122,Kempapura Agrahara,ulb_276600-zone-6
-ulb_276600-ward-123,Vijayanagar,ulb_276600-zone-6
-ulb_276600-ward-124,Hosahalli,ulb_276600-zone-6
-ulb_276600-ward-125,Marenahalli,ulb_276600-zone-7
-ulb_276600-ward-126,Maruthi Mandir ward,ulb_276600-zone-7
-ulb_276600-ward-127,Mudalapalya,ulb_276600-zone-7
-ulb_276600-ward-128,Nagarabhavi,ulb_276600-zone-7
-ulb_276600-ward-129,Jnana Bharathi ward,ulb_276600-zone-5
-ulb_276600-ward-130,Ullalu,ulb_276600-zone-5
-ulb_276600-ward-131,Nayandahalli,ulb_276600-zone-7
-ulb_276600-ward-132,Attiguppe,ulb_276600-zone-6
-ulb_276600-ward-133,Hampi Nagar,ulb_276600-zone-6
-ulb_276600-ward-134,Bapuji Nagar,ulb_276600-zone-6
-ulb_276600-ward-135,Padarayanapura,ulb_276600-zone-7
-ulb_276600-ward-136,Jagajivanaramnagar,ulb_276600-zone-7
-ulb_276600-ward-137,Rayapuram,ulb_276600-zone-7
-ulb_276600-ward-138,Chalavadipalya,ulb_276600-zone-7
-ulb_276600-ward-139,K R Market,ulb_276600-zone-7
-ulb_276600-ward-140,Chamrajapet,ulb_276600-zone-7
-ulb_276600-ward-141,Azad Nagar,ulb_276600-zone-7
-ulb_276600-ward-142,Sunkenahalli,ulb_276600-zone-6
-ulb_276600-ward-143,Vishveshwara Puram,ulb_276600-zone-6
-ulb_276600-ward-144,Siddapura,ulb_276600-zone-6
-ulb_276600-ward-145,Hombegowda Nagara,ulb_276600-zone-6
-ulb_276600-ward-146,Lakkasandra,ulb_276600-zone-6
-ulb_276600-ward-147,Adugodi,ulb_276600-zone-6
-ulb_276600-ward-148,Ejipura,ulb_276600-zone-6
-ulb_276600-ward-149,Varthuru,ulb_276600-zone-4
-ulb_276600-ward-150,Bellanduru,ulb_276600-zone-4
-ulb_276600-ward-151,Koramangala,ulb_276600-zone-6
-ulb_276600-ward-152,Suddagunte Palya,ulb_276600-zone-6
-ulb_276600-ward-153,Jayanagar,ulb_276600-zone-6
-ulb_276600-ward-154,Basavanagudi,ulb_276600-zone-6
-ulb_276600-ward-155,Hanumanth Nagar,ulb_276600-zone-6
-ulb_276600-ward-156,Srinagar,ulb_276600-zone-6
-ulb_276600-ward-157,Gali Anjenaya Temple ward,ulb_276600-zone-6
-ulb_276600-ward-158,Deepanjali Nagar,ulb_276600-zone-6
-ulb_276600-ward-159,Kengeri,ulb_276600-zone-5
-ulb_276600-ward-160,Rajarajeshwari Nagar,ulb_276600-zone-5
-ulb_276600-ward-161,Hosakerehalli,ulb_276600-zone-6
-ulb_276600-ward-162,Girinagar,ulb_276600-zone-6
-ulb_276600-ward-163,Katriguppe,ulb_276600-zone-6
-ulb_276600-ward-164,Vidyapeeta ward,ulb_276600-zone-6
-ulb_276600-ward-165,Ganesh Mandir ward,ulb_276600-zone-6
-ulb_276600-ward-166,Karisandra,ulb_276600-zone-6
-ulb_276600-ward-167,Yediyur,ulb_276600-zone-6
-ulb_276600-ward-168,Pattabhiram Nagar,ulb_276600-zone-6
-ulb_276600-ward-169,Byrasandra,ulb_276600-zone-6
-ulb_276600-ward-170,Jayanagar East,ulb_276600-zone-6
-ulb_276600-ward-171,Gurappanapalya,ulb_276600-zone-6
-ulb_276600-ward-172,Madivala,ulb_276600-zone-6
-ulb_276600-ward-173,Jakkasandra,ulb_276600-zone-6
-ulb_276600-ward-174,HSR Layout,ulb_276600-zone-1
-ulb_276600-ward-175,Bommanahalli,ulb_276600-zone-1
-ulb_276600-ward-176,BTM Layout,ulb_276600-zone-6
-ulb_276600-ward-177,J P Nagar,ulb_276600-zone-6
-ulb_276600-ward-178,Sarakki,ulb_276600-zone-6
-ulb_276600-ward-179,Shakambari Nagar,ulb_276600-zone-6
-ulb_276600-ward-180,Banashankari Temple ward,ulb_276600-zone-6
-ulb_276600-ward-181,Kumaraswamy Layout,ulb_276600-zone-6
-ulb_276600-ward-182,Padmanabha Nagar,ulb_276600-zone-6
-ulb_276600-ward-183,Chikkalsandra,ulb_276600-zone-6
-ulb_276600-ward-184,Uttarahalli,ulb_276600-zone-1
-ulb_276600-ward-185,Yelchenahalli,ulb_276600-zone-1
-ulb_276600-ward-186,Jaraganahalli,ulb_276600-zone-1
-ulb_276600-ward-187,Puttenahalli,ulb_276600-zone-1
-ulb_276600-ward-188,Bilekhalli,ulb_276600-zone-1
-ulb_276600-ward-189,Hongasandra,ulb_276600-zone-1
-ulb_276600-ward-190,Mangammanapalya,ulb_276600-zone-1
-ulb_276600-ward-191,Singasandra,ulb_276600-zone-1
-ulb_276600-ward-192,Begur,ulb_276600-zone-1
-ulb_276600-ward-193,Arakere,ulb_276600-zone-1
-ulb_276600-ward-194,Gottigere,ulb_276600-zone-1
-ulb_276600-ward-195,Konankunte,ulb_276600-zone-1
-ulb_276600-ward-196,Anjanapura,ulb_276600-zone-1
-ulb_276600-ward-197,Vasanthpura,ulb_276600-zone-1
-ulb_276600-ward-198,Hemmigepura,ulb_276600-zone-5
-ulb_251528-zone-1,Zone A,ulb_251528
-ulb_251528-zone-2,Zone B,ulb_251528
-ulb_251528-zone-3,Zone C,ulb_251528
-ulb_251528-zone-4,Zone D,ulb_251528
-ulb_251528-zone-5,Zone E,ulb_251528
-ulb_251528-zone-6,Zone F,ulb_251528
-ulb_251528-zone-7,Zone G,ulb_251528
-ulb_251528-zone-8,Zone H,ulb_251528
-ulb_251528-ward-1,Ward No. 1,ulb_251528-zone-6
-ulb_251528-ward-2,Ward No. 2,ulb_251528-zone-3
-ulb_251528-ward-3,Ward No. 3,ulb_251528-zone-5
-ulb_251528-ward-4,Ward No. 4,ulb_251528-zone-5
-ulb_251528-ward-5,Ward No. 5,ulb_251528-zone-5
-ulb_251528-ward-6,Ward No. 6,ulb_251528-zone-3
-ulb_251528-ward-7,Ward No. 7,ulb_251528-zone-5
-ulb_251528-ward-8,Ward No. 8,ulb_251528-zone-3
-ulb_251528-ward-9,Ward No. 9,ulb_251528-zone-3
-ulb_251528-ward-10,Ward No. 10,ulb_251528-zone-1
-ulb_251528-ward-11,Ward No. 11,ulb_251528-zone-6
-ulb_251528-ward-12,Ward No. 12,ulb_251528-zone-6
-ulb_251528-ward-13,Ward No. 13,ulb_251528-zone-6
-ulb_251528-ward-14,Ward No. 14,ulb_251528-zone-1
-ulb_251528-ward-15,Ward No. 15,ulb_251528-zone-1
-ulb_251528-ward-16,Ward No. 16,ulb_251528-zone-2
-ulb_251528-ward-17,Ward No. 17,ulb_251528-zone-2
-ulb_251528-ward-18,Ward No. 18,ulb_251528-zone-2
-ulb_251528-ward-19,Ward No. 19,ulb_251528-zone-1
-ulb_251528-ward-20,Ward No. 20,ulb_251528-zone-8
-ulb_251528-ward-21,Ward No. 21,ulb_251528-zone-7
-ulb_251528-ward-22,Ward No. 22,ulb_251528-zone-2
-ulb_251528-ward-23,Ward No. 23,ulb_251528-zone-7
-ulb_251528-ward-24,Ward No. 24,ulb_251528-zone-7
-ulb_251528-ward-25,Ward No. 25,ulb_251528-zone-4
-ulb_251528-ward-26,Ward No. 26,ulb_251528-zone-4
-ulb_251528-ward-27,Ward No. 27,ulb_251528-zone-7
-ulb_251528-ward-28,Ward No. 28,ulb_251528-zone-4
-ulb_251528-ward-29,Ward No. 29,ulb_251528-zone-4
-ulb_251528-ward-30,Ward No. 30,ulb_251528-zone-8
-ulb_251528-ward-31,Ward No. 31,ulb_251528-zone-8
-ulb_251528-ward-32,Ward No. 32,ulb_251528-zone-8
-ulb_251530-prabhag-1,Prabhag No. 1,ulb_251530
-ulb_251530-prabhag-2,Prabhag No. 2,ulb_251530
-ulb_251530-prabhag-3,Prabhag No. 3,ulb_251530
-ulb_251530-prabhag-4,Prabhag No. 4,ulb_251530
-ulb_251530-prabhag-5,Prabhag No. 5,ulb_251530
-ulb_251530-prabhag-6,Prabhag No. 6,ulb_251530
-ulb_251530-prabhag-7,Prabhag No. 7,ulb_251530
-ulb_251530-prabhag-8,Prabhag No. 8,ulb_251530
-ulb_251530-prabhag-9,Prabhag No. 9,ulb_251530
-ulb_251530-prabhag-10,Prabhag No. 10,ulb_251530
-ulb_251530-prabhag-11,Prabhag No. 11,ulb_251530
-ulb_251530-prabhag-12,Prabhag No. 12,ulb_251530
-ulb_251530-prabhag-13,Prabhag No. 13,ulb_251530
-ulb_251530-prabhag-14,Prabhag No. 14,ulb_251530
-ulb_251530-prabhag-15,Prabhag No. 15,ulb_251530
-ulb_251530-prabhag-16,Prabhag No. 16,ulb_251530
-ulb_251530-prabhag-17,Prabhag No. 17,ulb_251530
-ulb_251530-prabhag-18,Prabhag No. 18,ulb_251530
-ulb_251530-prabhag-19,Prabhag No. 19,ulb_251530
-ulb_251530-prabhag-20,Prabhag No. 20,ulb_251530
-ulb_251530-prabhag-21,Prabhag No. 21,ulb_251530
-ulb_251530-prabhag-22,Prabhag No. 22,ulb_251530
-ulb_251530-prabhag-23,Prabhag No. 23,ulb_251530
-ulb_251530-prabhag-24,Prabhag No. 24,ulb_251530
-ulb_251530-prabhag-25,Prabhag No. 25,ulb_251530
-ulb_251530-prabhag-26,Prabhag No. 26,ulb_251530
-ulb_251530-prabhag-27,Prabhag No. 27,ulb_251530
-ulb_251530-prabhag-28,Prabhag No. 28,ulb_251530
-ulb_251530-prabhag-29,Prabhag No. 29,ulb_251530
-ulb_251530-prabhag-30,Prabhag No. 30,ulb_251530
-ulb_251530-prabhag-31,Prabhag No. 31,ulb_251530
-ulb_251530-prabhag-32,Prabhag No. 32,ulb_251530
-ulb_251530-prabhag-33,Prabhag No. 33,ulb_251530
-ulb_251530-prabhag-34,Prabhag No. 34,ulb_251530
-ulb_251530-prabhag-35,Prabhag No. 35,ulb_251530
-ulb_251530-prabhag-36,Prabhag No. 36,ulb_251530
-ulb_251530-prabhag-37,Prabhag No. 37,ulb_251530
-ulb_251530-prabhag-38,Prabhag No. 38,ulb_251530
-ulb_251530-prabhag-39,Prabhag No. 39,ulb_251530
-ulb_251530-prabhag-40,Prabhag No. 40,ulb_251530
-ulb_251530-prabhag-41,Prabhag No. 41,ulb_251530
-ulb_251530-prabhag-42,Prabhag No. 42,ulb_251530
-ulb_251530-prabhag-43,Prabhag No. 43,ulb_251530
-ulb_251530-prabhag-44,Prabhag No. 44,ulb_251530
-ulb_251530-prabhag-45,Prabhag No. 45,ulb_251530
-ulb_251530-prabhag-46,Prabhag No. 46,ulb_251530
-ulb_251530-prabhag-47,Prabhag No. 47,ulb_251530
-ulb_251530-prabhag-48,Prabhag No. 48,ulb_251530
-ulb_251530-prabhag-49,Prabhag No. 49,ulb_251530
-ulb_251530-prabhag-50,Prabhag No. 50,ulb_251530
-ulb_251530-prabhag-51,Prabhag No. 51,ulb_251530
-ulb_251530-prabhag-52,Prabhag No. 52,ulb_251530
-ulb_251530-prabhag-53,Prabhag No. 53,ulb_251530
-ulb_251530-prabhag-54,Prabhag No. 54,ulb_251530
-ulb_251530-prabhag-55,Prabhag No. 55,ulb_251530
-ulb_251530-prabhag-56,Prabhag No. 56,ulb_251530
-ulb_251530-prabhag-57,Prabhag No. 57,ulb_251530
-ulb_251530-prabhag-58,Prabhag No. 58,ulb_251530
+zone_276600-1,Bommanahalli,ulb_276600
+zone_276600-2,Dasarahalli,ulb_276600
+zone_276600-3,East,ulb_276600
+zone_276600-4,Mahadevapura,ulb_276600
+zone_276600-5,Rajarajeshwari Nagar,ulb_276600
+zone_276600-6,South,ulb_276600
+zone_276600-7,West,ulb_276600
+zone_276600-8,Yelahanka,ulb_276600
+ward_276600-1,Kempegowda Ward,zone_276600-8
+ward_276600-2,Chowdeswari Ward,zone_276600-8
+ward_276600-3,Atturu,zone_276600-8
+ward_276600-4,Yelahanka Satellite Town,zone_276600-8
+ward_276600-5,Jakkuru,zone_276600-8
+ward_276600-6,Thanisandra,zone_276600-8
+ward_276600-7,Byatarayanapura,zone_276600-8
+ward_276600-8,Kodigehalli,zone_276600-8
+ward_276600-9,Vidyaranyapura,zone_276600-8
+ward_276600-10,Dodda Bommasandra,zone_276600-8
+ward_276600-11,Kuvempu Nagar,zone_276600-8
+ward_276600-12,Shettihalli,zone_276600-2
+ward_276600-13,Mallasandra,zone_276600-2
+ward_276600-14,Bagalakunte,zone_276600-2
+ward_276600-15,T Dasarahalli,zone_276600-2
+ward_276600-16,Jalahalli,zone_276600-5
+ward_276600-17,J P Park,zone_276600-5
+ward_276600-18,Radhakrishna Temple Ward,zone_276600-3
+ward_276600-19,Sanjaya Nagar,zone_276600-3
+ward_276600-20,Ganga Nagar,zone_276600-3
+ward_276600-21,Hebbala,zone_276600-3
+ward_276600-22,Vishwanath Nagenahalli,zone_276600-3
+ward_276600-23,Nagavara,zone_276600-3
+ward_276600-24,HBR Layout,zone_276600-3
+ward_276600-25,Horamavu,zone_276600-4
+ward_276600-26,Ramamurthy Nagar,zone_276600-4
+ward_276600-27,Banasavadi,zone_276600-3
+ward_276600-28,Kammanahalli,zone_276600-3
+ward_276600-29,Kacharkanahalli,zone_276600-3
+ward_276600-30,Kadugondanahalli,zone_276600-3
+ward_276600-31,Kushal Nagar,zone_276600-3
+ward_276600-32,Kaval Bairasandra,zone_276600-3
+ward_276600-33,Manorayanapalya,zone_276600-3
+ward_276600-34,Gangenahalli,zone_276600-3
+ward_276600-35,Aramane Nagara,zone_276600-7
+ward_276600-36,Mattikere,zone_276600-7
+ward_276600-37,Yeshwanthpura,zone_276600-5
+ward_276600-38,HMT Ward,zone_276600-5
+ward_276600-39,Chokkasandra,zone_276600-2
+ward_276600-40,Dodda Bidarakallu,zone_276600-5
+ward_276600-41,Peenya Industrial Area,zone_276600-2
+ward_276600-42,Lakshmi Devi Nagar,zone_276600-5
+ward_276600-43,Nandini Layout,zone_276600-7
+ward_276600-44,Marappana Palya,zone_276600-7
+ward_276600-45,Malleswaram,zone_276600-7
+ward_276600-46,Jayachamarajendra Nagar,zone_276600-3
+ward_276600-47,Devara Jeevanahalli,zone_276600-3
+ward_276600-48,Muneshwara Nagar,zone_276600-3
+ward_276600-49,Lingarajapura,zone_276600-3
+ward_276600-50,Benniganahalli,zone_276600-3
+ward_276600-51,Vijnanapura,zone_276600-4
+ward_276600-52,K R Puram,zone_276600-4
+ward_276600-53,Basavanapura,zone_276600-4
+ward_276600-54,Hudi,zone_276600-4
+ward_276600-55,Devasandra,zone_276600-4
+ward_276600-56,A Narayanapura,zone_276600-4
+ward_276600-57,C V Raman Nagar,zone_276600-3
+ward_276600-58,New Tippasandara,zone_276600-3
+ward_276600-59,Maruthi Seva Nagar,zone_276600-3
+ward_276600-60,Sagayarapuram,zone_276600-3
+ward_276600-61,S K Garden,zone_276600-3
+ward_276600-62,Ramaswamy Palya,zone_276600-3
+ward_276600-63,Jayamahal,zone_276600-3
+ward_276600-64,Rajamahal Guttahalli,zone_276600-7
+ward_276600-65,Kadu Malleshwar Ward,zone_276600-7
+ward_276600-66,Subramanya Nagar,zone_276600-7
+ward_276600-67,Nagapura,zone_276600-7
+ward_276600-68,Mahalakshimpuram,zone_276600-7
+ward_276600-69,Laggere,zone_276600-5
+ward_276600-70,Rajagopal Nagar,zone_276600-2
+ward_276600-71,Hegganahalli,zone_276600-2
+ward_276600-72,Herohalli,zone_276600-5
+ward_276600-73,Kottegepalya,zone_276600-5
+ward_276600-74,Shakthi Ganapathi Nagar,zone_276600-7
+ward_276600-75,Shankar Matt,zone_276600-7
+ward_276600-76,Gayithri Nagar,zone_276600-7
+ward_276600-77,Dattatreya Temple,zone_276600-7
+ward_276600-78,Pulikeshinagar,zone_276600-3
+ward_276600-79,Sarvagna Nagar,zone_276600-3
+ward_276600-80,Hoysala Nagar,zone_276600-3
+ward_276600-81,Vijnana Nagar,zone_276600-4
+ward_276600-82,Garudachar Playa,zone_276600-4
+ward_276600-83,Kadugodi,zone_276600-4
+ward_276600-84,Hagadur,zone_276600-4
+ward_276600-85,Dodda Nekkundi,zone_276600-4
+ward_276600-86,Marathahalli,zone_276600-4
+ward_276600-87,HAL Airport,zone_276600-4
+ward_276600-88,Jeevanbhima Nagar,zone_276600-3
+ward_276600-89,Jogupalya,zone_276600-3
+ward_276600-90,Halsoor,zone_276600-3
+ward_276600-91,Bharathi Nagar,zone_276600-3
+ward_276600-92,Shivaji Nagar,zone_276600-3
+ward_276600-93,Vasanth Nagar,zone_276600-3
+ward_276600-94,Gandhinagar,zone_276600-7
+ward_276600-95,Subhash Nagar,zone_276600-7
+ward_276600-96,Okalipuram,zone_276600-7
+ward_276600-97,Dayananda Nagar,zone_276600-7
+ward_276600-98,Prakash Nagar,zone_276600-7
+ward_276600-99,Rajaji Nagar,zone_276600-7
+ward_276600-100,Basaveshwara Nagar,zone_276600-7
+ward_276600-101,Kamakshipalya,zone_276600-7
+ward_276600-102,Vrisabhavathi Nagar,zone_276600-7
+ward_276600-103,Kaveripura,zone_276600-7
+ward_276600-104,Govindaraja Nagar,zone_276600-7
+ward_276600-105,Agrahara Dasarahalli,zone_276600-7
+ward_276600-106,Dr. Raj Kumar Ward,zone_276600-7
+ward_276600-107,Shivanagara,zone_276600-7
+ward_276600-108,Sriramamandir,zone_276600-7
+ward_276600-109,Chickpete,zone_276600-7
+ward_276600-110,Sampangiram Nagar,zone_276600-3
+ward_276600-111,Shantala Nagar,zone_276600-3
+ward_276600-112,Domlur,zone_276600-3
+ward_276600-113,Konena Agrahara,zone_276600-3
+ward_276600-114,Agaram,zone_276600-3
+ward_276600-115,Vannarpet,zone_276600-3
+ward_276600-116,Nilasandra,zone_276600-3
+ward_276600-117,Shanthi Nagar,zone_276600-3
+ward_276600-118,Sudham Nagara,zone_276600-6
+ward_276600-119,Dharmaraya Swamy Temple,zone_276600-6
+ward_276600-120,Cottonpete,zone_276600-7
+ward_276600-121,Binnipete,zone_276600-7
+ward_276600-122,Kempapura Agrahara,zone_276600-6
+ward_276600-123,Vijayanagar,zone_276600-6
+ward_276600-124,Hosahalli,zone_276600-6
+ward_276600-125,Marenahalli,zone_276600-7
+ward_276600-126,Maruthi Mandir ward,zone_276600-7
+ward_276600-127,Mudalapalya,zone_276600-7
+ward_276600-128,Nagarabhavi,zone_276600-7
+ward_276600-129,Jnana Bharathi ward,zone_276600-5
+ward_276600-130,Ullalu,zone_276600-5
+ward_276600-131,Nayandahalli,zone_276600-7
+ward_276600-132,Attiguppe,zone_276600-6
+ward_276600-133,Hampi Nagar,zone_276600-6
+ward_276600-134,Bapuji Nagar,zone_276600-6
+ward_276600-135,Padarayanapura,zone_276600-7
+ward_276600-136,Jagajivanaramnagar,zone_276600-7
+ward_276600-137,Rayapuram,zone_276600-7
+ward_276600-138,Chalavadipalya,zone_276600-7
+ward_276600-139,K R Market,zone_276600-7
+ward_276600-140,Chamrajapet,zone_276600-7
+ward_276600-141,Azad Nagar,zone_276600-7
+ward_276600-142,Sunkenahalli,zone_276600-6
+ward_276600-143,Vishveshwara Puram,zone_276600-6
+ward_276600-144,Siddapura,zone_276600-6
+ward_276600-145,Hombegowda Nagara,zone_276600-6
+ward_276600-146,Lakkasandra,zone_276600-6
+ward_276600-147,Adugodi,zone_276600-6
+ward_276600-148,Ejipura,zone_276600-6
+ward_276600-149,Varthuru,zone_276600-4
+ward_276600-150,Bellanduru,zone_276600-4
+ward_276600-151,Koramangala,zone_276600-6
+ward_276600-152,Suddagunte Palya,zone_276600-6
+ward_276600-153,Jayanagar,zone_276600-6
+ward_276600-154,Basavanagudi,zone_276600-6
+ward_276600-155,Hanumanth Nagar,zone_276600-6
+ward_276600-156,Srinagar,zone_276600-6
+ward_276600-157,Gali Anjenaya Temple ward,zone_276600-6
+ward_276600-158,Deepanjali Nagar,zone_276600-6
+ward_276600-159,Kengeri,zone_276600-5
+ward_276600-160,Rajarajeshwari Nagar,zone_276600-5
+ward_276600-161,Hosakerehalli,zone_276600-6
+ward_276600-162,Girinagar,zone_276600-6
+ward_276600-163,Katriguppe,zone_276600-6
+ward_276600-164,Vidyapeeta ward,zone_276600-6
+ward_276600-165,Ganesh Mandir ward,zone_276600-6
+ward_276600-166,Karisandra,zone_276600-6
+ward_276600-167,Yediyur,zone_276600-6
+ward_276600-168,Pattabhiram Nagar,zone_276600-6
+ward_276600-169,Byrasandra,zone_276600-6
+ward_276600-170,Jayanagar East,zone_276600-6
+ward_276600-171,Gurappanapalya,zone_276600-6
+ward_276600-172,Madivala,zone_276600-6
+ward_276600-173,Jakkasandra,zone_276600-6
+ward_276600-174,HSR Layout,zone_276600-1
+ward_276600-175,Bommanahalli,zone_276600-1
+ward_276600-176,BTM Layout,zone_276600-6
+ward_276600-177,J P Nagar,zone_276600-6
+ward_276600-178,Sarakki,zone_276600-6
+ward_276600-179,Shakambari Nagar,zone_276600-6
+ward_276600-180,Banashankari Temple ward,zone_276600-6
+ward_276600-181,Kumaraswamy Layout,zone_276600-6
+ward_276600-182,Padmanabha Nagar,zone_276600-6
+ward_276600-183,Chikkalsandra,zone_276600-6
+ward_276600-184,Uttarahalli,zone_276600-1
+ward_276600-185,Yelchenahalli,zone_276600-1
+ward_276600-186,Jaraganahalli,zone_276600-1
+ward_276600-187,Puttenahalli,zone_276600-1
+ward_276600-188,Bilekhalli,zone_276600-1
+ward_276600-189,Hongasandra,zone_276600-1
+ward_276600-190,Mangammanapalya,zone_276600-1
+ward_276600-191,Singasandra,zone_276600-1
+ward_276600-192,Begur,zone_276600-1
+ward_276600-193,Arakere,zone_276600-1
+ward_276600-194,Gottigere,zone_276600-1
+ward_276600-195,Konankunte,zone_276600-1
+ward_276600-196,Anjanapura,zone_276600-1
+ward_276600-197,Vasanthpura,zone_276600-1
+ward_276600-198,Hemmigepura,zone_276600-5
+zone_251528-1,Zone A,ulb_251528
+zone_251528-2,Zone B,ulb_251528
+zone_251528-3,Zone C,ulb_251528
+zone_251528-4,Zone D,ulb_251528
+zone_251528-5,Zone E,ulb_251528
+zone_251528-6,Zone F,ulb_251528
+zone_251528-7,Zone G,ulb_251528
+zone_251528-8,Zone H,ulb_251528
+ward_251528-1,PIMPRI CHINCHWAD Ward No. 1,zone_251528-6
+ward_251528-2,PIMPRI CHINCHWAD Ward No. 2,zone_251528-3
+ward_251528-3,PIMPRI CHINCHWAD Ward No. 3,zone_251528-5
+ward_251528-4,PIMPRI CHINCHWAD Ward No. 4,zone_251528-5
+ward_251528-5,PIMPRI CHINCHWAD Ward No. 5,zone_251528-5
+ward_251528-6,PIMPRI CHINCHWAD Ward No. 6,zone_251528-3
+ward_251528-7,PIMPRI CHINCHWAD Ward No. 7,zone_251528-5
+ward_251528-8,PIMPRI CHINCHWAD Ward No. 8,zone_251528-3
+ward_251528-9,PIMPRI CHINCHWAD Ward No. 9,zone_251528-3
+ward_251528-10,PIMPRI CHINCHWAD Ward No. 10,zone_251528-1
+ward_251528-11,PIMPRI CHINCHWAD Ward No. 11,zone_251528-6
+ward_251528-12,PIMPRI CHINCHWAD Ward No. 12,zone_251528-6
+ward_251528-13,PIMPRI CHINCHWAD Ward No. 13,zone_251528-6
+ward_251528-14,PIMPRI CHINCHWAD Ward No. 14,zone_251528-1
+ward_251528-15,PIMPRI CHINCHWAD Ward No. 15,zone_251528-1
+ward_251528-16,PIMPRI CHINCHWAD Ward No. 16,zone_251528-2
+ward_251528-17,PIMPRI CHINCHWAD Ward No. 17,zone_251528-2
+ward_251528-18,PIMPRI CHINCHWAD Ward No. 18,zone_251528-2
+ward_251528-19,PIMPRI CHINCHWAD Ward No. 19,zone_251528-1
+ward_251528-20,PIMPRI CHINCHWAD Ward No. 20,zone_251528-8
+ward_251528-21,PIMPRI CHINCHWAD Ward No. 21,zone_251528-7
+ward_251528-22,PIMPRI CHINCHWAD Ward No. 22,zone_251528-2
+ward_251528-23,PIMPRI CHINCHWAD Ward No. 23,zone_251528-7
+ward_251528-24,PIMPRI CHINCHWAD Ward No. 24,zone_251528-7
+ward_251528-25,PIMPRI CHINCHWAD Ward No. 25,zone_251528-4
+ward_251528-26,PIMPRI CHINCHWAD Ward No. 26,zone_251528-4
+ward_251528-27,PIMPRI CHINCHWAD Ward No. 27,zone_251528-7
+ward_251528-28,PIMPRI CHINCHWAD Ward No. 28,zone_251528-4
+ward_251528-29,PIMPRI CHINCHWAD Ward No. 29,zone_251528-4
+ward_251528-30,PIMPRI CHINCHWAD Ward No. 30,zone_251528-8
+ward_251528-31,PIMPRI CHINCHWAD Ward No. 31,zone_251528-8
+ward_251528-32,PIMPRI CHINCHWAD Ward No. 32,zone_251528-8
+prabhag_251530-1,PUNE Prabhag No. 1,ulb_251530
+prabhag_251530-2,PUNE Prabhag No. 2,ulb_251530
+prabhag_251530-3,PUNE Prabhag No. 3,ulb_251530
+prabhag_251530-4,PUNE Prabhag No. 4,ulb_251530
+prabhag_251530-5,PUNE Prabhag No. 5,ulb_251530
+prabhag_251530-6,PUNE Prabhag No. 6,ulb_251530
+prabhag_251530-7,PUNE Prabhag No. 7,ulb_251530
+prabhag_251530-8,PUNE Prabhag No. 8,ulb_251530
+prabhag_251530-9,PUNE Prabhag No. 9,ulb_251530
+prabhag_251530-10,PUNE Prabhag No. 10,ulb_251530
+prabhag_251530-11,PUNE Prabhag No. 11,ulb_251530
+prabhag_251530-12,PUNE Prabhag No. 12,ulb_251530
+prabhag_251530-13,PUNE Prabhag No. 13,ulb_251530
+prabhag_251530-14,PUNE Prabhag No. 14,ulb_251530
+prabhag_251530-15,PUNE Prabhag No. 15,ulb_251530
+prabhag_251530-16,PUNE Prabhag No. 16,ulb_251530
+prabhag_251530-17,PUNE Prabhag No. 17,ulb_251530
+prabhag_251530-18,PUNE Prabhag No. 18,ulb_251530
+prabhag_251530-19,PUNE Prabhag No. 19,ulb_251530
+prabhag_251530-20,PUNE Prabhag No. 20,ulb_251530
+prabhag_251530-21,PUNE Prabhag No. 21,ulb_251530
+prabhag_251530-22,PUNE Prabhag No. 22,ulb_251530
+prabhag_251530-23,PUNE Prabhag No. 23,ulb_251530
+prabhag_251530-24,PUNE Prabhag No. 24,ulb_251530
+prabhag_251530-25,PUNE Prabhag No. 25,ulb_251530
+prabhag_251530-26,PUNE Prabhag No. 26,ulb_251530
+prabhag_251530-27,PUNE Prabhag No. 27,ulb_251530
+prabhag_251530-28,PUNE Prabhag No. 28,ulb_251530
+prabhag_251530-29,PUNE Prabhag No. 29,ulb_251530
+prabhag_251530-30,PUNE Prabhag No. 30,ulb_251530
+prabhag_251530-31,PUNE Prabhag No. 31,ulb_251530
+prabhag_251530-32,PUNE Prabhag No. 32,ulb_251530
+prabhag_251530-33,PUNE Prabhag No. 33,ulb_251530
+prabhag_251530-34,PUNE Prabhag No. 34,ulb_251530
+prabhag_251530-35,PUNE Prabhag No. 35,ulb_251530
+prabhag_251530-36,PUNE Prabhag No. 36,ulb_251530
+prabhag_251530-37,PUNE Prabhag No. 37,ulb_251530
+prabhag_251530-38,PUNE Prabhag No. 38,ulb_251530
+prabhag_251530-39,PUNE Prabhag No. 39,ulb_251530
+prabhag_251530-40,PUNE Prabhag No. 40,ulb_251530
+prabhag_251530-41,PUNE Prabhag No. 41,ulb_251530
+prabhag_251530-42,PUNE Prabhag No. 42,ulb_251530
+prabhag_251530-43,PUNE Prabhag No. 43,ulb_251530
+prabhag_251530-44,PUNE Prabhag No. 44,ulb_251530
+prabhag_251530-45,PUNE Prabhag No. 45,ulb_251530
+prabhag_251530-46,PUNE Prabhag No. 46,ulb_251530
+prabhag_251530-47,PUNE Prabhag No. 47,ulb_251530
+prabhag_251530-48,PUNE Prabhag No. 48,ulb_251530
+prabhag_251530-49,PUNE Prabhag No. 49,ulb_251530
+prabhag_251530-50,PUNE Prabhag No. 50,ulb_251530
+prabhag_251530-51,PUNE Prabhag No. 51,ulb_251530
+prabhag_251530-52,PUNE Prabhag No. 52,ulb_251530
+prabhag_251530-53,PUNE Prabhag No. 53,ulb_251530
+prabhag_251530-54,PUNE Prabhag No. 54,ulb_251530
+prabhag_251530-55,PUNE Prabhag No. 55,ulb_251530
+prabhag_251530-56,PUNE Prabhag No. 56,ulb_251530
+prabhag_251530-57,PUNE Prabhag No. 57,ulb_251530
+prabhag_251530-58,PUNE Prabhag No. 58,ulb_251530
